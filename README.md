@@ -232,6 +232,7 @@ The current iteration of the list, such as you see it today, was launched with t
 
 - [My Claude Code Setup](https://github.com/pedrohcgs/claude-code-my-workflow) by [Pedro H. C. Sant'Anna](https://github.com/pedrohcgs) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols. Great use of orchestration patterns and great documentation.  
 <img src="https://img.shields.io/github/created-at/pedrohcgs/claude-code-my-workflow?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/pedrohcgs/claude-code-my-workflow?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/pedrohcgs/claude-code-my-workflow?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/pedrohcgs/claude-code-my-workflow?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+- [LevelBench-100 & Open Finance Skills](https://github.com/levelcfo/open-finance-skills) - 20 open-source accounting and CFO verification skills for Claude Code plus the 75-run [LevelBench-100](https://levelcfo.com/ai-benchmark/) agentic accounting evaluation benchmark.
 
 ## Providers, Runtime & Integration Infrastructure
 
